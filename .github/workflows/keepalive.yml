@@ -1,0 +1,26 @@
+name: keepalive
+
+on:
+  schedule:
+    - cron: "17 3 */15 * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  keepalive:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Update keepalive stamp
+        run: |
+          mkdir -p state
+          date -u "+%Y-%m-%dT%H:%M:%SZ" > state/keepalive.txt
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add state/keepalive.txt
+          git commit -m "keepalive: $(date -u +%F)" || echo "nothing to commit"
+          git push
