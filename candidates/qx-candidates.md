@@ -30,3 +30,17 @@
 - Semporia/Quantumult-X（★320）：Bubble icon、Filter、Rewrite、Scripts ;  🔨：Scripts and icons are suitable for Quantumult X,Surge, Loon
 - smxl/500（★393）：Quantumult X, Loon, Stash 预配置文件: Apple News 解锁, 去广告, 分流规则, Bing AI, TikTok 解锁 Rewrite, VIP 视频解析
 - dishao123/rules_script（★328）：Quantumult X，Shadowrocket，Clash，Stash，Surge，Loon，Quan X，QX， 圈X，圈叉，小火箭，气球，色鸡，分流，重写，脚本，规则，插件，IOS去广告，解锁
+
+## 2026-11-16 上游更新
+
+- [deezertidal/QuantumultX-Rewrite] yfamily（9e6b0ad）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（e75bb11）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（29e7c5d）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（ab48207）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（5b4b4e8）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（62bf35f）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（52d27d7）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（ec9c11c）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（ef9ae1f）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（73d90b0）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（76fbc5e）：6 个文件变更
