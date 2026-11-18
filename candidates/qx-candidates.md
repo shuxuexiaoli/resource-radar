@@ -62,3 +62,25 @@
 - [deezertidal/QuantumultX-Rewrite] yfamily（2bda0f2）：6 个文件变更
 - [deezertidal/QuantumultX-Rewrite] yfamily（81fccd5）：6 个文件变更
 - [deezertidal/QuantumultX-Rewrite] yfamily（2a61d44）：6 个文件变更
+
+## 2026-11-18 上游更新
+
+- [deezertidal/QuantumultX-Rewrite] yfamily（5cc815c）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（2e707d5）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（8d3b84d）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（ecbdb0d）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（a3f938a）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（b3bd82e）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（efbc15c）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（5207124）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（b2d5cfb）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（6893712）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（fd1bf73）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（7666265）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（cc10c53）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（4c4739f）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（3913df2）：6 个文件变更
+
+## 2026-11-18 新仓库候选
+
+- xiaomaoJT/QxScript（★456）：QuantumultX 规则学习记录；请不要fork项目!!!
