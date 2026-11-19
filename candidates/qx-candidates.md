@@ -84,3 +84,25 @@
 ## 2026-11-18 新仓库候选
 
 - xiaomaoJT/QxScript（★456）：QuantumultX 规则学习记录；请不要fork项目!!!
+
+## 2026-11-19 上游更新
+
+- [deezertidal/QuantumultX-Rewrite] yfamily（c7453d0）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（370a855）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（65630fe）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（265bd95）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（bdc0a48）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（8a95392）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（dc282b1）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（33f3440）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（9274eab）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（044d626）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（ed3fe5c）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（39ed584）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（acce7d2）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（3db064c）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（df4d0c9）：6 个文件变更
+
+## 2026-11-19 新仓库候选
+
+- youshandefeiyang/sub-web-modify（★3136）：Subconverter订阅转换前端增强版，增加近百条远程配置及更多自定义功能！

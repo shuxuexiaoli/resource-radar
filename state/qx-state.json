@@ -1,6 +1,6 @@
 {
  "commits": {
-  "deezertidal/QuantumultX-Rewrite": "5cc815c52bba624b7678b870d9a61c833f08d063",
+  "deezertidal/QuantumultX-Rewrite": "c7453d0ea9a651f8bdf069f791234edfb55980c2",
   "yqc007/QuantumultX": "08eada498e940f8ec190fb4233a781d1628abc80",
   "NobyDa/Script": "0b8d083d444f4476700cb9d5d059c07b42da85eb",
   "Sliverkiss/QuantumultX": "89b9ae1c9e1554976464e6b56739fc80d390bdb1"
@@ -30,6 +30,7 @@
   "sub-store-org/Sub-Store",
   "xOS/Config",
   "xiaomaoJT/QxScript",
-  "xkww3n/Rules"
+  "xkww3n/Rules",
+  "youshandefeiyang/sub-web-modify"
  ]
 }
