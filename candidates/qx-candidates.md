@@ -106,3 +106,26 @@
 ## 2026-11-19 新仓库候选
 
 - youshandefeiyang/sub-web-modify（★3136）：Subconverter订阅转换前端增强版，增加近百条远程配置及更多自定义功能！
+
+## 2026-11-20 上游更新
+
+- [deezertidal/QuantumultX-Rewrite] yfamily（f95b172）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（2c0feb9）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（45b3094）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（930ce9b）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（ab9caeb）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（6e8db3c）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（1c6b883）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（ede8c58）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（cd203af）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（daab09a）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（f91c760）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（58ada5e）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（00bc5f0）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（3d38806）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（8d8d870）：6 个文件变更
+
+## 2026-11-20 新仓库候选
+
+- KOP-XIAO/QuantumultX（★3017）：无描述
+- Hackl0us/GeoIP2-CN（★7463）：小巧精悍、准确、实用 GeoIP2 数据库

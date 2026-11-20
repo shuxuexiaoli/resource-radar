@@ -1,6 +1,6 @@
 {
  "commits": {
-  "deezertidal/QuantumultX-Rewrite": "c7453d0ea9a651f8bdf069f791234edfb55980c2",
+  "deezertidal/QuantumultX-Rewrite": "f95b172f528ddcc776dd7d7c022370b7fbb207c1",
   "yqc007/QuantumultX": "08eada498e940f8ec190fb4233a781d1628abc80",
   "NobyDa/Script": "0b8d083d444f4476700cb9d5d059c07b42da85eb",
   "Sliverkiss/QuantumultX": "89b9ae1c9e1554976464e6b56739fc80d390bdb1"
@@ -8,7 +8,9 @@
  "seen_repos": [
   "217heidai/adblockfilters",
   "Centralmatrix3/Matrix-io",
+  "Hackl0us/GeoIP2-CN",
   "Jone2008/QuantumultX",
+  "KOP-XIAO/QuantumultX",
   "LM-Firefly/Rules",
   "Loyalsoldier/geoip",
   "LucaLin233/Proxy",
