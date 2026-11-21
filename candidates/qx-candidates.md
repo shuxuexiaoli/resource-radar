@@ -129,3 +129,21 @@
 
 - KOP-XIAO/QuantumultX（★3017）：无描述
 - Hackl0us/GeoIP2-CN（★7463）：小巧精悍、准确、实用 GeoIP2 数据库
+
+## 2026-11-21 上游更新
+
+- [deezertidal/QuantumultX-Rewrite] yfamily（66cb571）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（5d81459）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（739c107）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（daefb12）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（c37b80b）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（45cc09d）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（dc4e3e2）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（76c4580）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（f31b8dd）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（6a89975）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（ee961f5）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（be68430）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（9bf1df2）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（19dcea8）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（8d7f082）：6 个文件变更
