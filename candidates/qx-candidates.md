@@ -170,3 +170,21 @@
 
 - limbopro/JichangTuijian（★940）：毒奶博主的自用机场推荐——150GB/14元/月起，Vless/AnyTLS协议支持，透传，IEPL专线加持，稳定低延迟，ChatGPT 等AI工具支持，Netflix等主流流媒体区域限制解锁；
 - BOBOLAOSHIV587/Rules（★333）：Surge、QuantumultX(Qx)、Loon分流规则、JS会员解锁脚本、Task
+
+## 2026-11-23 上游更新
+
+- [deezertidal/QuantumultX-Rewrite] yfamily（c478986）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（a59d6bc）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（aab5114）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（34048f5）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（03a7a49）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（cf547e2）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（d9708a9）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（ea4a5d3）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（09411ed）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（0ebc240）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（be518df）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（e30dc05）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（87193db）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（cb1f1cb）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（e97b070）：6 个文件变更
