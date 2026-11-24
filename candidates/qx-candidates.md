@@ -188,3 +188,26 @@
 - [deezertidal/QuantumultX-Rewrite] yfamily（87193db）：6 个文件变更
 - [deezertidal/QuantumultX-Rewrite] yfamily（cb1f1cb）：6 个文件变更
 - [deezertidal/QuantumultX-Rewrite] yfamily（e97b070）：6 个文件变更
+
+## 2026-11-24 上游更新
+
+- [deezertidal/QuantumultX-Rewrite] yfamily（817a71e）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（48502c3）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（b35bdec）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（34b71a1）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（c3b1074）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（705e836）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（31ca103）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（a328c81）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（64a7a27）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（726ee70）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（d47c9cf）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（f922f5f）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（24d1012）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（6f9539c）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（2e44724）：6 个文件变更
+
+## 2026-11-24 新仓库候选
+
+- deezertidal/deezertidal（★199）：Yfamily - 小火箭 ShadowRocket QuantumultX 圈X loon surge stash 模块 插件 重写 覆写 教程
+- SunsetMkt/anti-ip-attribution（★1078）：针对部分网站显示IP归属地的流量分流规则
