@@ -229,3 +229,21 @@
 - [deezertidal/QuantumultX-Rewrite] yfamily（edea867）：6 个文件变更
 - [deezertidal/QuantumultX-Rewrite] yfamily（fcf034a）：6 个文件变更
 - [deezertidal/QuantumultX-Rewrite] yfamily（e724882）：6 个文件变更
+
+## 2026-11-26 上游更新
+
+- [deezertidal/QuantumultX-Rewrite] yfamily（11bf328）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（d9ccb3e）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（b0db0a3）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（031e568）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（5072f83）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（e1c1f61）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（e402a3f）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（dc7cc36）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（e00fd14）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（d676362）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（ecb425f）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（461a444）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（2b85126）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（23ca266）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（2eb4a09）：6 个文件变更
