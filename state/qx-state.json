@@ -1,6 +1,6 @@
 {
  "commits": {
-  "deezertidal/QuantumultX-Rewrite": "11bf328dbf2716a76da4620c752d421234bf7b2c",
+  "deezertidal/QuantumultX-Rewrite": "d43adfb92af2b4705d8c2f0c7ffe248656f79083",
   "yqc007/QuantumultX": "08eada498e940f8ec190fb4233a781d1628abc80",
   "NobyDa/Script": "0b8d083d444f4476700cb9d5d059c07b42da85eb",
   "Sliverkiss/QuantumultX": "89b9ae1c9e1554976464e6b56739fc80d390bdb1"
@@ -28,6 +28,7 @@
   "elnfnoosm/iOS_network",
   "enriquephl/QuantumultX_config",
   "fmz200/wool_scripts",
+  "githubdulong/Script",
   "jnlaoshu/MySelf",
   "limbopro/Adblock4limbo",
   "limbopro/JichangTuijian",

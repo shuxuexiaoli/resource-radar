@@ -247,3 +247,25 @@
 - [deezertidal/QuantumultX-Rewrite] yfamily（2b85126）：6 个文件变更
 - [deezertidal/QuantumultX-Rewrite] yfamily（23ca266）：6 个文件变更
 - [deezertidal/QuantumultX-Rewrite] yfamily（2eb4a09）：6 个文件变更
+
+## 2026-11-27 上游更新
+
+- [deezertidal/QuantumultX-Rewrite] yfamily（d43adfb）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（577bd51）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（aeb8d11）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（b22e006）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（64d3763）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（581563d）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（6aa4c3e）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（89c36b0）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（9f0291d）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（b34dfbf）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（fb56c10）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（7964d44）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（2cfbea8）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（69f125f）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（e5aa198）：6 个文件变更
+
+## 2026-11-27 新仓库候选
+
+- githubdulong/Script（★995）：QuantumultX｜Surge｜Loon
