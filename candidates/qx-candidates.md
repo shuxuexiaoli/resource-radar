@@ -269,3 +269,21 @@
 ## 2026-11-27 新仓库候选
 
 - githubdulong/Script（★995）：QuantumultX｜Surge｜Loon
+
+## 2026-11-28 上游更新
+
+- [deezertidal/QuantumultX-Rewrite] yfamily（f711d1c）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（94e7132）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（ae9eb64）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（2aa2717）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（136bf28）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（e6c92c3）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（ae24e91）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（063931e）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（6402c74）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（164bbed）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（6bbfef7）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（ce95bba）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（d0082d8）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（5e3eccc）：6 个文件变更
+- [deezertidal/QuantumultX-Rewrite] yfamily（c6574b2）：6 个文件变更
